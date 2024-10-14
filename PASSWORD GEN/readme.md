@@ -1,1 +1,1 @@
-![Alt text](PASSWORD GEN/image)
+![Alt text](PASSWORD GEN/Screenshot (147).png)
